@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<class> 
+
+<student> 
+
+<name> ramya </name> 
+
+<id> 190030971 </id> 
+
+ <avg>92</avg> 
+
+   <dob>14-12-1999</dob>   
+
+   <time>10:08</time>        
+
+   <mobile no="9938796990"/>  		    
+
+   <distinction>YES</distinction> 
+
+</student> 
+
+<student> 
+
+	<name> snehitha </name> 
+
+	<id> 190030001 </id> 
+
+ 	<avg>78</avg> 
+
+   <dob>07-06-2001</dob>   
+
+   <time>10:08</time>        
+
+   <mobile no="8247614225"/>  		    
+
+   <distinction>NO</distinction> 
+
+</student>
+
+<student> 
+
+<name> aishu </name> 
+
+<id> 190031003 </id> 
+
+ <avg>85</avg> 
+
+   <dob>10-07-2001</dob>   
+
+   <time>10:08</time>        
+
+   <mobile no="9347803904"/>  		    
+
+   <distinction>YES</distinction> 
+
+</student>
+
+<student> 
+
+<name> RISHI </name> 
+
+<id> 190030005 </id> 
+
+ <avg>72</avg> 
+
+   <dob>05-09-2001</dob>   
+
+   <time>10:08</time>        
+
+   <mobile no="9938796990"/>  		    
+
+   <distinction>YES</distinction> 
+
+</student>
+
+<student> 
+
+<name> SINDHU </name> 
+
+<id> 190030009 </id> 
+
+ <avg>92</avg> 
+
+   <dob>27-10-2001</dob>   
+
+   <time>10:08</time>        
+
+   <mobile no="9938796990"/>  		    
+
+   <distinction>YES</distinction> 
+
+</student>
+
+</class>
